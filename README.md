@@ -1,8 +1,10 @@
 # Projeto de Rede de Talentos - Desenvolvimento de Software para Web
 
-**Grupo:** Caíque Almeida Amaral 
-**Professor:** Guilherme Zucatelli Nossa  
-**Turma:** SI1N
+* **Grupo:** Caíque Almeida Amaral 
+* **Professor:** Guilherme Zucatelli Nossa  
+* **Turma:** SI1N
+
+## O Projeto
 
 O objetivo central deste projeto é conceber e implementar uma estrutura web para uma Rede de Talentos.
 Esse projeto abordou aspectos de User Experience e Banco de Dados, no entanto o banco de dados não foi integrado, este repositório é dedicado a parte de desenvolvimento web.
